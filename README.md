@@ -18,7 +18,7 @@ Foco📚 Força 💪 e Fé
 
 ## Github stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4lanLucas&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=A5BF6B&title_color=A5BF6B&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4lanLucas&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=A5BF6B&title_color=A5BF6B&text_color=FFF&rank_icon=github)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=4lanLucas&bg_color=000&border_color=FFF&title_color=A5BF6B&text_color=FFF)
 
 ## Projetos
