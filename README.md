@@ -14,7 +14,7 @@ Foco📚 Força 💪 e Fé
 
 ## Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,aws,spring,js,html,css&theme=dark&perline=3)](https://skillicons.dev)
 
 ## Github stats
 
